@@ -4,8 +4,6 @@
 </head>
 <body>
 
-<h1>Camera Only - Privacy Policy</h1>
-
 <p><strong>Camera Only</strong> respects your privacy and is committed to transparency.</p>
 
 <h2>Data Collection</h2>
