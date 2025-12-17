@@ -56,8 +56,8 @@ Email:
 support@cameraonly.com
 </a>
 <br>
-Website:
-<a href="https://aklima0821.github.io/camera-only-support/" target="_blank" rel="noopener" style="color:#1a73e8; text-decoration:none;">
+Support:
+<a href="https://aklima0821.github.io/Camera-Only-Support/" target="_blank" rel="noopener" style="color:#1a73e8; text-decoration:none;">
 cameraonly.com
 </a>
 </p>
